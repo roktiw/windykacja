@@ -43,13 +43,13 @@ Skrypt jest napisany dla sytuacji, gdy ktoś dzwoni do Ciebie.
 * Załóż wcześniej oddzielny adres email na który ma być przesłane nagranie; nie wiesz czy nie dzwoni do Ciebie oszust, więc lepiej podać adres email „zapasowy” lub „taki na spam”. Nie podawaj nigdy swojego głównego adresu email dopóki nie masz 100% pewności co robisz lub że wiesz z kim rozmawiasz.
 ## DZWONIĄCY DO CIEBIE MA OBOWIĄZEK ROZWIAĆ TWOJE WĄTPLIWOŚCI KIM JEST, SKĄD DZWONI, CZY JEST ODPOWIEDNIO UMOCOWANA I W JAKIEJ SPRAWIE DZWONI
 ### KIM JEST DZWONIĄCY I SKĄD DZWONI
-* Zanim podasz jakiekolwiek swoje dane masz prawo poprosić dzwoniącego do Ciebie o następujące dane (np. w celu weryfikacji kim jest i skąd dzwoni:
-Imię
-Nazwisko
-Stanowisko jakie zajmuje 
-Imię i nazwisko osoby przełożonej
-Pełna nazwa firmy lub spółki
-Pełen adres firmy lub spółki: ulica, numer, miasto, kod pocztowy
+Zanim podasz jakiekolwiek swoje dane masz prawo poprosić dzwoniącego do Ciebie o następujące dane (np. w celu weryfikacji kim jest i skąd dzwoni:
+* Imię
+* Nazwisko
+* Stanowisko jakie zajmuje 
+* Imię i nazwisko osoby przełożonej
+* Pełna nazwa firmy lub spółki
+* Pełen adres firmy lub spółki: ulica, numer, miasto, kod pocztowy
 ### UMOCOWANIE OSOBY DZWONIĄCEJ DO CIEBIE
 Masz prawo poprosić o wysłanie na wcześniej przygotowany adres email następujących informacji:
 * Dokumentu potwierdzającego że dana osoba (Imię i Nazwisko) pracuje w danej firmie. Masz prawo wiedzieć kto podpisał ten dokument (Imię i Nazwisko) i kim jest ta osoba; np. czy jest szefem firmy i czy figuruje w publicznym rejestrze np. spółek lub w CEIDG.
@@ -61,3 +61,5 @@ Dzwoniący do Ciebie ma obowiązek spełnić wobec Ciebie RODO:
 1. Poinformować skąd ma twoje dane osobowe.
 2. Poinformować w jakim celu i zakresie będzie przetwarzać twoje dane osobowe
 3. Wyraźnie i jasno poinformować w jaki sposób Ty możesz żądać od niego modyfikacji lub całkowitego usunięcia danych z jego systemów
+### Oryginały dokumentów faktur
+Jeśli sprawa dotyczy zapłaty to dzwoniący ma udostępnić: umowę na mocy której działa, pełnomocnictwo od Wierzyciela, dokumenty jak np. faktury
